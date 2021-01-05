@@ -2,7 +2,8 @@
 
 > Create a custom landing page for a Travel website using HTML, CSS and JavaScript
 
-### [Demo]()
+### [Demo](http://travel-landing-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v5yNRggQ2ph?a)
 
 ### Get started
 
